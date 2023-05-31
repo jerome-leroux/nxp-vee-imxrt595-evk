@@ -43,9 +43,6 @@
 		
         <!-- CCO end -->
         
-        <!-- mocks -->
-        <dependency org="com.nxp.vee" name="evk_platform_mock" rev="1.0.0"/>
-
     </dependencies>
     
 </ivy-module>
